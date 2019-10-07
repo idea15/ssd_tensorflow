@@ -1,2 +1,2 @@
 # ssd_tensorflow
-use ssd test a picture
+use ssd test many own pictures
